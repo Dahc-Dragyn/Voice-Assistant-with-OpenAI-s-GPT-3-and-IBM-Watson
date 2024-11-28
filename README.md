@@ -23,7 +23,7 @@ This project demonstrates how to build a simple AI-powered voice assistant using
 1.  Clone the repository:
 
     ```bash
-    git clone [invalid URL removed]
+    git clone (https://github.com/Dahc-Dragyn/Voice-Assistant-with-OpenAI-s-GPT-3-and-IBM-Watson.git)
     ```
 
 2.  Install dependencies:
